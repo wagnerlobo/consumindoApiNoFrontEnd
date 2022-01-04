@@ -24,6 +24,6 @@ Consumir API
 
 Consumir API 
 
-- [] Jasonplaceholder
+- [] Jasonplaceholder (https://jsonplaceholder.typicode.com/users)
 - [] Usar axios
 - [] Semelhanças entre axios e fetch
