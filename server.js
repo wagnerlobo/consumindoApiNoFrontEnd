@@ -1,6 +1,6 @@
 
 const cors = require('cors')
-const express = require("express");
+const express = require('express')
 const app = express()
 
 app.use(cors())
@@ -8,7 +8,7 @@ app.use(cors())
 app.get('/', (req, res) => {
     return res.json([
         { name: 'wagner'}, 
-        {name: 'lobo'}
+        { name: 'lobo'}
     ])
 
 })
